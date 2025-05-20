@@ -1,5 +1,5 @@
 <h1 align="left">Hellooo, I'm Laila Khaled!</h1>
-<h3 align="left">A junior CS student who's passionate about software engineering and data science & engineering. Also like to make games for fun.</h3>
+<h3 align="left">A junior CS student who's interested in software engineering and data science & engineering. Also like to make games for fun.</h3>
 
 - 📫 How to reach me **laila.k.abdo@gmail.com,laila.khaled@ieee.org**
 
