@@ -1,7 +1,7 @@
 <h1 align="left">Hellooo, I'm Laila Khaled!</h1>
-<h3 align="left">A junior CS student who's interested in software engineering and data science & engineering. Also like to make games for fun.</h3>
+<h3 align="left">Senior CS student specializing in data science & engineering.</h3>
 
-- 📫 How to reach me **laila.k.abdo@gmail.com,laila.khaled@ieee.org**
+- 📫 How to reach me **laila.k.abdo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
